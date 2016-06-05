@@ -1,5 +1,5 @@
 # Plane-War（飞机大战）                               
-1.游戏运行环境：windows        
+1.游戏运行环境：windows 64位系统            
 
 2.游戏制作语言：python2.7.6；使用主要库：pygame；打包工具：py2exe      
 
